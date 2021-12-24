@@ -2,4 +2,4 @@
 
 This is a web application for a random password generator. It is currently not functioning, as the JavaScript is still a work in progress. :)
 
-Website URL: 
+Website URL: https://tpreston013.github.io/password-generator/
